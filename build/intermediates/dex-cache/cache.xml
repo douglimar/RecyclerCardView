@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2f915b9631cafa22524025aa6a38e3131b7f9ce3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05d3dcbf7e00fa14e30b0fea82fb27cc55bee5a9">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1c1a663d08fe12b40c26575cc02510d695505f5f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_d386e6c4cdb65bb26c7bbc6852c99b3ebd8cc8e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_8e1c0d8f3401bdf5f1586af29997e690870ad1ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_f997dd1e430ea308c1e0fa6c84aba7fed422b36d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_1e8a5105ba914a277252efb33dcff9f2f1c83c45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f7592ac34202392eb3f835c70c571af5204b3cb2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_766b2c79da4357a2ff37702940aeb62d2e861edc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_64128467f1e62905e97015ab905aafd80c9a5e75\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_2e62192a457c3b06e0564725e04300efe93aaa66\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_774422b8435d1457477605376a83d56af41a0416\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_f2cb45f29f5d9968ef782414c55f5f52b9fc3378\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bc2e211a932fade36ceeb80c20632902286eb4da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_12b35db0f7aeb16c20fdaf4c3c615b8fc404a3d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_21d33cc4ccc5e58a44fa4a04277a59e5cb7320f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_e9e9eb4a1c8d30d4bf876531d092f2a926440d65\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_e88af18dd5d7815acb20f5ca187e52f2e48210cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_fb9906e415942d834b067849803257c38701aa65\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="49949f6b3f7bdae4021bd46f903ae2aa835c6fba">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32b2c866ce97e3598acc101702b1e0f807b0dea5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\dmoraes\AndroidStudioProjects\RecyclerCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_bad106dd3b3577c28009c124128421a05a7850b9\classes.dex" />
+    </item>
+
+</items>
